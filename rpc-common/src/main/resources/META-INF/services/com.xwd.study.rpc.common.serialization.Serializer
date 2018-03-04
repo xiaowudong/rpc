@@ -1,0 +1,3 @@
+#com.xwd.study.rpc.common.serialization.proto.ProtoStuffSerializer
+#com.xwd.study.rpc.common.serialization.kryo.KryoSerializer
+com.xwd.study.rpc.common.serialization.fastjson.FastjsonSerializer
